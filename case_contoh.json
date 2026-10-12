@@ -1,0 +1,32 @@
+{
+  "nama_wp": "PT CONTOH SEJAHTERA",
+  "npwp": "01.234.567.8-012.000",
+  "sp2_no": "PRIN-00001/NPWP/KPP.0000/2026",
+  "sp2_tgl": "01-10-2026",
+  "st_no": "ST-00001/NPWP/KPP.0000/2026",
+  "st_tgl": "02-10-2026",
+  "pemeriksa": [
+    "Nama Pemeriksa Satu",
+    "Nama Pemeriksa Dua"
+  ],
+  "tenaga_ahli": [
+    "Nama Tenaga Ahli Forensik"
+  ],
+  "tahun_pajak": "2024",
+  "keterangan": "Laptop kerja bagian keuangan",
+  "user_nama": "Nama Pengguna Komputer",
+  "user_jabatan": "Kepala Bagian Keuangan",
+  "user_lokasi": "Kantor Pusat Lt. 3, Jakarta Selatan",
+  "waktu_referensi": "",
+  "id_perkara": "PRIN-00001/2026",
+  "no_berita_acara": "BA-001/WP/2026",
+  "perwakilan_wp": "Bpk. Contoh (Kepala Keuangan)",
+  "kata_kunci_kasus": [
+    "niagakas",
+    "Penjualan2024",
+    "FENNY-WIREMESH"
+  ],
+  "persetujuan_lisan": true,
+  "persetujuan_tertulis": true,
+  "dok_persetujuan": "Surat Pernyataan Persetujuan Akses No. SP-01/2026 tanggal 01-10-2026"
+}

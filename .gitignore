@@ -1,0 +1,9 @@
+config.json
+dist/
+_backup_versi/
+__pycache__/
+*.pyc
+*.baru
+desktop.ini
+Forensik Runner.lnk
+Hasil_Forensik/
